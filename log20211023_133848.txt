@@ -1,0 +1,7 @@
+2021.10.23:13:38:48.329: main Phoenix Miner 5.5c Windows/msvc - Release build
+2021.10.23:13:38:48.329: main Cmd line: -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -ewal 0x6ff85749ffac2d3a36efa2bc916305433fa93731.lkl940icdmrhghy -gpow 96 
+2021.10.23:13:38:50.216: main CUDA version: 8.0, CUDA runtime: 8.0
+2021.10.23:13:38:50.223: main No OpenCL platforms found
+2021.10.23:13:38:50.224: main Unable to use CUDA device GeForce GT 630 (pcie 1) for Ethash mining
+2021.10.23:13:38:50.224: main No avaiable GPUs for mining. Please check your drivers and/or hardware.
+2021.10.23:13:38:50.224: main Exit code: 8
